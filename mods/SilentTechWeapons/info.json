@@ -1,0 +1,104 @@
+{
+    "name": "Silent Tech Weapons",
+    "version": "1.0",
+    "customSounds": [
+        {
+            "name": "w_gun_sniper_tech_rasetsu_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_smg_tech_senkoh_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_sniper_tech_rasetsu_suppersor_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_shotgun_tech_satara_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_ticon_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_pistol_tech_omaha_charge_start",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_grit_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_pistol_tech_kenshin_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_sniper_tech_nekomata_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_pistol_tech_kenshin_chaos_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_ticon_charge_suppressor",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_revol_tech_burya_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_rifle_tech_achilles_charge_start",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        },
+        {
+            "name": "w_gun_revol_tech_quasar_charge",
+            "type": "mod_sfx_2d",
+            "file": "silent.wav",
+            "gain": 1.0,
+            "pitch": 0.0
+        }
+    ]
+}
