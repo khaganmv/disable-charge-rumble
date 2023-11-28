@@ -1,7 +1,7 @@
 import json
 
 
-file = open("sfx_map.json", "r")
+file = open("resources/sfx_map.json", "r")
 data = [
     entry for entry in json.load(file) if 
         "w_gun" in entry and 
